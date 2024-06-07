@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+    <file>hospital_sign.png</file>
+    
+
+</qresource>
+</RCC>
